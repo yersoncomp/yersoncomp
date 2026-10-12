@@ -1,16 +1,23 @@
-## Hi there 👋
+Yerson Bravo
+Music Producer/ Audio Engineer 
 
-<!--
-**yersoncomp/yersoncomp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ABOUT ME
 
-Here are some ideas to get you started:
+Audio professional focused on music production, audio editing, mixing and mastering. 
+Experienced with FL Studio and Pro Tools, with an emphasis on sound quality, clarity and detail.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CORE SKILLS
+
+- Audio editing and processing
+- Music production and arrangement
+- Mixing and mastering
+- Audio level and quality evaluation
+- FL Studio and Pro Tools.
+
+- PORTFOLIO
+Selected projects and technical audio case studies will be added here.
+
+LANGUAGES
+
+- Spanish: Native
+- English: Basic
