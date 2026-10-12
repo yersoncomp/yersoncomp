@@ -1,24 +1,64 @@
-Yerson Bravo
+<h1 align="center">YERSON BRAVO</h1>
 
-Music Producer/ Audio Engineer 
+<h3 align="center">AUDIO QUALITY | AUDIO EDITING | MUSIC PRODUCTION</h3>
 
-ABOUT ME
+<p align="center">
+  Audio professional based in Argentina
+  <br>
+  FL Studio · Pro Tools · Audio Processing
+</p>
 
-Audio professional focused on music production, audio editing, mixing and mastering. 
-Experienced with FL Studio and Pro Tools, with an emphasis on sound quality, clarity and detail.
+<p align="center">
+  <img src="https://img.shields.io/badge/Audio-Quality-00C7B7?style=for-the-badge" alt="Audio Quality">
+  <img src="https://img.shields.io/badge/Audio-Editing-202A44?style=for-the-badge" alt="Audio Editing">
+  <img src="https://img.shields.io/badge/DAW-FL%20Studio-00C7B7?style=for-the-badge" alt="FL Studio">
+  <img src="https://img.shields.io/badge/DAW-Pro%20Tools-202A44?style=for-the-badge" alt="Pro Tools">
+</p>
 
-CORE SKILLS
+---
+
+## ABOUT ME
+
+I am an audio professional with experience in music production, audio editing, mixing and mastering.
+
+My work focuses on sound quality, clarity, detail and careful listening. I use FL Studio and Pro Tools in my audio workflow.
+
+I am interested in opportunities involving audio quality assessment, audio editing, audio processing and sound defect identification.
+
+## CORE SKILLS
 
 - Audio editing and processing
-- Music production and arrangement
-- Mixing and mastering
-- Audio level and quality evaluation
-- FL Studio and Pro Tools.
+- Critical listening and audio quality evaluation
+- Audio level and signal inspection
+- Music production, mixing and mastering
+- FL Studio and Pro Tools
 
-- PORTFOLIO
-Selected projects and technical audio case studies will be added here.
+## TOOLS
 
-LANGUAGES
+| Tool | Application |
+|---|---|
+| FL Studio | Audio production, editing and processing |
+| Pro Tools | Audio editing and production |
+| Audio metering tools | Level and loudness analysis |
 
-- Spanish: Native
-- English: Basic
+## PROJECTS
+
+I am building a portfolio of audio-focused case studies, including:
+
+- Audio quality inspection
+- Audio defect identification and reporting
+- Audio editing and processing examples
+- Before-and-after comparisons, where available
+
+Project documentation and verified examples will be added as they are prepared.
+
+## LANGUAGES
+
+- Spanish — Native
+- English — Basic
+
+---
+
+<p align="center">
+  <i>Audio quality starts with careful listening.</i>
+</p>
