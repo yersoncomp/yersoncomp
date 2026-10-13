@@ -1,3 +1,4 @@
+
 <h1 align="center">YERSON BRAVO</h1>
 
 <h3 align="center">AUDIO QUALITY | AUDIO EDITING | MUSIC PRODUCTION</h3>
@@ -41,26 +42,19 @@ I am interested in opportunities involving audio quality assessment, audio editi
 | Pro Tools | Audio editing and production |
 | Audio metering tools | Level and loudness analysis |
 
-## PROJECTS
+---
 
-### 1. Voice Noise Reduction — Before & After
+## AUDIO PORTFOLIO
 
-A 21-second audio comparison demonstrating background noise reduction. The sample presents the original noisy voice recording and the processed version for direct listening comparison.
+Listen to selected audio samples showcasing voice noise reduction, music mixing and mastering, and instrument separation.
 
-[Open audio sample](https://github.com/yersoncomp/yersoncomp/blob/main/voice%20noise%20reduction%20before%20after.wav)
+<p align="center">
+  <a href="https://yersoncomp.github.io/yersoncomp/audio.html">
+    <img src="https://img.shields.io/badge/▶_LISTEN_TO_MY_AUDIO_PORTFOLIO-00C7B7?style=for-the-badge" alt="Listen to My Audio Portfolio">
+  </a>
+</p>
 
-### 2. Mixing & Mastering — Celtic Music (Before & After)
-
-An audio comparison demonstrating mixing and mastering work on a Celtic instrumental track. The sample presents the unmastered mix followed by the final mastered version, allowing a direct comparison of the results.
-
-[Open / download WAV sample](https://github.com/yersoncomp/yersoncomp/blob/main/Mixing%20y%20Mastering%20Celtic%20Music%20Before%20After.wav)
-
-### 3. Instrument Separation & Mixing — Individual Tracks vs. Final Mix
-
-An audio demonstration showcasing individual instrument tracks followed by the final mix. This sample highlights the arrangement, balance, and integration of multiple elements into a cohesive musical production.
-
-[Listen to audio sample](https://github.com/yersoncomp/yersoncomp/blob/main/Instrument%20Separation%20y%20Mixing-%20Individual%20Tracks%20vs%20Final%20Mix%20y%20Master.wav)
-
+---
 
 ## LANGUAGES
 
@@ -72,3 +66,4 @@ An audio demonstration showcasing individual instrument tracks followed by the f
 <p align="center">
   <i>Audio quality starts with careful listening.</i>
 </p>
+
