@@ -63,7 +63,6 @@ An audio demonstration showcasing individual instrument tracks followed by the f
 https://github.com/yersoncomp/yersoncomp/blob/main/Instrument%20Separation%20y%20Mixing-%20Individual%20Tracks%20vs%20Final%20Mix%20y%20Master.wav
 
 
-
 ## LANGUAGES
 
 - Spanish — Native
