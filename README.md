@@ -47,7 +47,7 @@ I am interested in opportunities involving audio quality assessment, audio editi
 
 A 21-second audio comparison demonstrating background noise reduction. The sample presents the original noisy voice recording and the processed version for direct listening comparison.
 
-[Open / download WAV sample](https://github.com/yersoncomp/yersoncomp/raw/refs/heads/main/voice%20noise%20reduction%20before%20after.wav)
+[Open audio sample](https://github.com/yersoncomp/yersoncomp/blob/main/voice%20noise%20reduction%20before%20after.wav)
 
 ### 2. Mixing & Mastering — Celtic Music (Before & After)
 
