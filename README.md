@@ -43,15 +43,11 @@ I am interested in opportunities involving audio quality assessment, audio editi
 
 ## PROJECTS
 
-I am building a portfolio of audio-focused case studies, including:
+### 1. Voice Noise Reduction — Before & After
 
-- Audio quality inspection
-- Audio defect identification and reporting
-- Audio editing and processing examples
-- Before-and-after comparisons, where available
+A 21-second audio comparison demonstrating background noise reduction. The sample presents the original noisy voice recording and the processed version for direct listening comparison.
 
-Project documentation and verified examples will be added as they are prepared.
-
+[Open / download WAV sample](https://github.com/yersoncomp/yersoncomp/raw/refs/heads/main/voice%20noise%20reduction%20before%20after.wav)
 ## LANGUAGES
 
 - Spanish — Native
