@@ -53,7 +53,16 @@ A 21-second audio comparison demonstrating background noise reduction. The sampl
 
 An audio comparison demonstrating mixing and mastering work on a Celtic instrumental track. The sample presents the unmastered mix followed by the final mastered version, allowing a direct comparison of the results.
 
-[Listen to audio sample](https://github.com/yersoncomp/yersoncomp/blob/main/Mixing%20y%20Mastering%20Celtic%20Music%20Before%20After.wav)
+[Open / download WAV sample](https://github.com/yersoncomp/yersoncomp/blob/main/Mixing%20y%20Mastering%20Celtic%20Music%20Before%20After.wav)
+
+### 3. Instrument Separation & Mixing — Individual Tracks vs. Final Mix
+
+An audio demonstration showcasing individual instrument tracks followed by the final mix. This sample highlights the arrangement, balance, and integration of multiple elements into a cohesive musical production.
+
+[Open / download WAV sample](LINK_TO_AUDIO)
+https://github.com/yersoncomp/yersoncomp/blob/main/Instrument%20Separation%20y%20Mixing-%20Individual%20Tracks%20vs%20Final%20Mix%20y%20Master.wav
+
+
 
 ## LANGUAGES
 
